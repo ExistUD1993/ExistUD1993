@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**ExistUD1993/ExistUD1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Exist
 
-Here are some ideas to get you started:
+<img src="./1337.png" width="300" height="300"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`low-level skid • Paste God since 1993`
+</div>
+
+---
+
+## about
+
+```txt
+name      : Exist ud
+location  : wyoming, us
+focus     : skidding
+```
+
+
+---
+
+## environment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/windows-11-111111?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+```txt
+main machine : windows 11
+```
+
+---
+
+## stack
+
+<p align="left">
+  <a href="https://antigravity.google/">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" width="28" height="28" />
+  </a>
+  <b> Antigravity</b>
+  &nbsp;&nbsp;
+
+  <a href="https://www.anthropic.com/">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" width="28" height="28" />
+  </a>
+  <b> Claude</b>
+  &nbsp;&nbsp;
+
+  <a href="https://openai.com/codex/">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" width="28" height="28" />
+  </a>
+  <b> Codex</b>
+</p>
+
+
+```txt
+systems   : windows 11
+focus     : skidding, vibecoding
+tools     : automation, ai agents
+```
+
